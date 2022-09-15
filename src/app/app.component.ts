@@ -14,7 +14,6 @@ export class AppComponent {
     config.duration = 5000;
     config.easing = 'cubic-bezier(0.645, 0.045, 0.355, 1)';
 
-    config.reset = true;
 
     //other options here
   }
